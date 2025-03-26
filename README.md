@@ -1,4 +1,4 @@
-# 🤖 Decipher
+# 🤖 AI model
 
 A comprehensive web application for training, analyzing, and deploying machine learning models with an intuitive user interface.
 
